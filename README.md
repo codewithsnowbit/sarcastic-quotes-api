@@ -24,7 +24,7 @@ What user needs more...?
     https://sarcastic-quotes-api.herokuapp.com/api/
 ```
 
-#### Get Taunts 😜
+#### Get Random Taunts 😜
 
 ```http
   GET /api/taunts
